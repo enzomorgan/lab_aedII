@@ -1,1 +1,1 @@
-# Questoes respondidas da materia de kaboratorio de algoritmos e estrutura de dados II
+# Questoes respondidas da materia de laboratorio de algoritmos e estrutura de dados II
